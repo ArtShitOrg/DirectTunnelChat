@@ -1,0 +1,15 @@
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\bin\Debug\MessageIpSender.exe.config
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\bin\Debug\MessageIpSender.exe
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\bin\Debug\MessageIpSender.pdb
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\MainWindow.g.cs
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\App.g.cs
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\MessageIpSender_MarkupCompile.cache
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\MessageIpSender_MarkupCompile.lref
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\MainWindow.baml
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\MessageIpSender.g.resources
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\MessageIpSender.Properties.Resources.resources
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\MessageIpSender.csproj.GenerateResource.Cache
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\MessageIpSender.exe
+c:\users\типоназвание\documents\visual studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\MessageIpSender.pdb
+C:\Users\ТипоНазвание\Documents\Visual Studio 2013\Projects\MessageIpSender\MessageIpSender\obj\Debug\MessageIpSender.csprojResolveAssemblyReference.cache
